@@ -1,0 +1,1 @@
+{"command": "driver.switch_to.default_content(); f = driver.find_element(By.ID, '_react_frame_1'); driver.switch_to.frame(f); btns = driver.find_elements(By.CLASS_NAME, 'ms-Button--primary'); print('Primary buttons:', len(btns)); [print(' -', b.text, '|', b.get_attribute('aria-label')) for b in btns]; btns[0].click(); print('Clicked Selecionar')"}

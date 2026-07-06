@@ -1,0 +1,28 @@
+# ─── Python ─────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Ambiente ──────────────────────────
+.env
+venv/
+.env.local
+
+# ─── IDE / OS ──────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# ─── Projeto ───────────────────────────
+downloads/
+profile/
+logs/
+.pytest_cache/
+.coverage
+htmlcov/

@@ -49,7 +49,7 @@ Servidor de automação web MCP-like para Agentes de IA. Permite que um LLM cont
 ## Estrutura do Projeto
 
 ```
-TD_Argos_MCP_Browser/
+Argos_MCP_Browser/
 ├── server.py              # FastAPI endpoints
 ├── browser.py             # BrowserManager (singleton Edge)
 ├── executor.py            # CommandExecutor com sandbox

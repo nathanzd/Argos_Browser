@@ -46,7 +46,7 @@ Python command → API → Sandbox AST Check → exec/eval → Screenshot → JS
 ## 2. Estrutura do Projeto
 
 ```
-TD_Argos_MCP_Browser/
+Argos_MCP_Browser/
 │
 ├── server.py              ★ Endpoints FastAPI (interface REST)
 ├── executor.py            ★ Orquestrador de comandos
